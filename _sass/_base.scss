@@ -23,6 +23,20 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+h3 {
+  margin-top: 3rem;
+  // padding-bottom: 1rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+.pub-note {
+  font-size: 0.9rem;
+}
+
 table {
   td,
   th {
@@ -217,14 +231,15 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 45%;
+    padding-right: 1rem;
 
     .address {
       p {
         display: block;
       }
     }
-  }
+  };
 }
 
 .post-description {
@@ -702,6 +717,7 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+  width: 100%;
 
   h1 {
     color: var(--global-theme-color);
