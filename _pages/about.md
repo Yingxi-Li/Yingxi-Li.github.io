@@ -30,6 +30,6 @@ Hi, I'm Yingxi Li, a third year PhD candidate in Operations Research, Management
 My interest sits at the intersection of artificial intelligent, algorithm, and discrete optimization. 
 I am particularly interested in using machine learning to design faster, more scalable, and robust methods for discrete optimization problems. I am also interested in algorithmic reasoning capabilities of large language models (LLMs) with an eye toward leveraging them for algorithm design.
 
-My research is generously supported by the [Amazon](https://www.aboutamazon.com/) Core AI Fellowship and Stanford MS&E departmental fellowship. 
+My research is generously supported by the [Amazon](https://datascience.stanford.edu/about/people/amazon-ai-phd-fellows) AI Fellowship and Stanford MS&E departmental fellowship. 
 
 
