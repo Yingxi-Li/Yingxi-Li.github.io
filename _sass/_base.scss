@@ -39,6 +39,26 @@ p {
   margin-bottom: 0rem;
 }
 
+.experience-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 1rem;
+
+  li {
+    font-size: 1.1rem;
+    padding-bottom: 0.4rem;
+  }
+
+  .experience-role {
+    font-weight: bold;
+  }
+
+  .experience-date {
+    float: right;
+    color: var(--global-text-color-light);
+  }
+}
+
 table {
   td,
   th {
